@@ -1,5 +1,6 @@
 // Grupo 1: Cambiar el color de la caja
 // Archivo: modulos/color.js
+// Creado por Jose David
 
 console.log(" Módulo de color cargado");
 
